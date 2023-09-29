@@ -1,2 +1,3 @@
 hello master
 new commit
+test new
